@@ -26,16 +26,6 @@ B.Sc. in Information Systems at **UNIRIO** (graduating Dec 2026). Based in Rio d
 
 ---
 
-### Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GuilhermeFreire7&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeFreire7&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
-
----
-
 ### Contact
 
 [linkedin.com/in/guilherme-freire-bsi](https://linkedin.com/in/guilherme-freire-bsi) · guitenan@hotmail.com
