@@ -21,6 +21,7 @@ B.Sc. in Information Systems at **UNIRIO** (graduating Dec 2026). Based in Rio d
 |---|---|---|
 | [BsiHub-front](https://github.com/GuilhermeFreire7/BsiHub-front) | Academic management platform for the Information Systems program at UNIRIO — drag-and-drop, CRUDs, PostgreSQL | React |
 | [unihub-app-front](https://github.com/GuilhermeFreire7/unihub-app-front) | Mobile adaptation of BSIHub with calendar and WhatsApp/Email share integration | React Native |
+| [unihub-app-back](https://github.com/GuilhermeFreire7/unihub-app-back) | Backend for the BSIHub Mobile platform | Node.js, PostgreSQL |
 | [scb-api](https://github.com/GuilhermeFreire7/scb-api) | Microservices bike-share backend with unit and integration tests | Python |
 
 ---
